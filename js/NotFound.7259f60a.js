@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmovieapp"]=self["webpackChunkmovieapp"]||[]).push([[187],{5527:function(n,e,u){u.r(e),u.d(e,{default:function(){return c}});var t=u(6252);function o(n,e,u,o,a,r){return(0,t.wg)(),(0,t.iD)("div",null," Not Found page ")}var a={name:"NotFoundPage",components:{},setup(){}},r=u(3744);const p=(0,r.Z)(a,[["render",o]]);var c=p}}]);
+//# sourceMappingURL=NotFound.7259f60a.js.map
